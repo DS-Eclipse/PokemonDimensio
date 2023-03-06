@@ -1,5 +1,8 @@
 build/
 node_modulies/
+.vscode/
+*.sln
+*.slnproj
 *.swp
 *.lock
 *.log
