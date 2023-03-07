@@ -1,49 +1,49 @@
 .title{
-    text-align:center;
-    font-size:large;
+  text-align:center;
+  font-size:large;
 }
 
 .bodi{
-    text-align:center;
+  text-align:center;
 }
 
 .phraseconnect{
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .header-body{
-    width: 100%;
-    height: 10%;
-    display:block;
-    position:static;
-    background-color:azure;
-    color:rgb(214, 67, 214);
+  width: 100%;
+  height: 10%;
+  display:block;
+  position:static;
+  background-color:azure;
+  color:rgb(214, 67, 214);
 }
 
 .body{
-    top:0;
-    width: 100%;
-    height: 400px;
-    position:static;
-    background-color: rgb(216, 208, 208);
+  top:0;
+  width: 100%;
+  height: 400px;
+  position:static;
+  background-color: rgb(216, 208, 208);
 }
 
 .button{
-    width:10%;
-    height:50px;
-    left:0;
-    background-color:azure;
-    color:black;
-    text-align:center;
+  width:10%;
+  height:50px;
+  left:0;
+  background-color:azure;
+  color:black;
+  text-align:center;
 }
 
 .madeby{
-    color:white;
-    position: fixed; 
-    padding: 10px 10px 10px 10px; 
-    bottom: 0;
-    left: -15px;
-    width: 100%; 
-    height: 40px;
-    text-align:right;
+  color:white;
+  position: fixed;
+  padding: 10px 10px 10px 10px;
+  bottom: 0;
+  left: -15px;
+  width: 100%;
+  height: 40px;
+  text-align:right;
 }
